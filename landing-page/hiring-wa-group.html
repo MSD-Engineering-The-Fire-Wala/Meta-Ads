@@ -48,6 +48,18 @@ h2{font-family:var(--body);font-weight:700;color:var(--navy);font-size:22px;marg
 .roles span{color:var(--muted);font-size:15px}
 .perks{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
 .perks li{background:var(--mist);border:1px solid var(--line);color:var(--navy);font-weight:600;font-size:15px;padding:6px 12px;border-radius:999px}
+.benefits{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+.benefits li{border:1px solid var(--line);border-left:4px solid var(--orange);border-radius:8px;padding:10px 12px;display:grid;gap:2px;min-width:0}
+.benefits b{color:var(--navy);font-size:16px}
+.benefits span{color:var(--muted);font-size:14px}
+.fine{font-size:13px;color:var(--steel);margin:10px 0 0}
+.path{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.path li{font-family:var(--head);font-weight:700;font-size:13px;color:var(--navy);background:var(--mist);border:1px solid var(--line);padding:6px 10px;border-radius:6px}
+.path li:not(:last-child)::after{content:"→";margin-left:8px;color:var(--teal)}
+.path li:last-child{background:var(--navy);color:var(--white);border-color:var(--navy)}
+.hr{border:1px dashed var(--line);border-radius:10px;padding:12px 14px;display:grid;gap:4px;font-size:15px;color:var(--muted)}
+.hr b{color:var(--navy)}
+.sel{user-select:all;color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
 .where{background:var(--navy);color:var(--white);border-radius:10px;padding:16px 18px;display:grid;gap:6px}
 .where b{font-family:var(--head);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:#9fd8de}
 .where p{margin:0}
@@ -103,6 +115,29 @@ footer i{font-style:normal;font-family:var(--head);font-weight:700;color:var(--n
     </ul>
   </section>
 
+  <section>
+    <h2>कंपनी क्या देगी</h2>
+    <ul class="benefits">
+      <li><b>रहने की सुविधा</b><span>कमरा, बिजली, पानी और खाना बनाने की व्यवस्था</span></li>
+      <li><b>साइट आने-जाने का खर्च</b><span>कंपनी वाहन, टिकट या approved किराया</span></li>
+      <li><b>लिखित सैलरी टर्म्स</b><span>Attendance और OT का पूरा रिकॉर्ड</span></li>
+      <li><b>Approved OT का भुगतान</b><span>Supervisor approval और रिकॉर्ड के अनुसार</span></li>
+      <li><b>PF / ESIC</b><span>पात्रता के अनुसार</span></li>
+      <li><b>PPE और Safety Training</b><span>काम के अनुसार सेफ्टी किट और गाइडेंस</span></li>
+    </ul>
+    <p class="fine">सुविधाएँ कंपनी पॉलिसी, प्रोजेक्ट और पात्रता के अनुसार। पूरी जानकारी जॉइनिंग से पहले दी जाएगी।</p>
+  </section>
+
+  <section>
+    <h2>आगे बढ़ने का रास्ता</h2>
+    <ol class="path"><li>Helper</li><li>Skilled Worker</li><li>Technician</li><li>Senior Technician</li><li>Site Supervisor</li><li>Project Foreman</li></ol>
+    <p class="fine">प्रमोशन स्किल, काम की क्वालिटी और जिम्मेदारी के आधार पर।</p>
+  </section>
+
+  <div>
+    <a class="cta" id="cta-mid" href="https://chat.whatsapp.com/IdbPtrt7bNJGAwlMScB6FU?mode=gi_t" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.8 11.9 11.9 0 0 0 4.6 4c1.7.7 2.4.8 3.2.7a2.8 2.8 0 0 0 1.8-1.3 2.3 2.3 0 0 0 .2-1.3c-.1-.1-.3-.2-.5-.3z"/></svg> WhatsApp ग्रुप Join करें</a>
+  </div>
+
   <section class="where">
     <b>काम और कंपनी</b>
     <p>काम पूरे छत्तीसगढ़ में अलग-अलग प्रोजेक्ट साइट्स पर होगा। रहने और खाने की सुविधा कंपनी की तरफ से है।</p>
@@ -117,6 +152,12 @@ footer i{font-style:normal;font-family:var(--head);font-weight:700;color:var(--n
       <li><span>ग्रुप में अपना नाम, ट्रेड, अनुभव और शहर भेजें।</span></li>
     </ol>
   </section>
+
+  <div class="hr">
+    <b>HR टीम से बात करनी हो तो</b>
+    <span>फोन / WhatsApp: <span class="sel">77720 78607</span></span>
+    <span>ईमेल: <span class="sel">hr@thefirewala.com</span></span>
+  </div>
 
   <div class="note">
     <div><b>ध्यान दें:</b> ग्रुप से जुड़ना नौकरी की गारंटी नहीं है। सिलेक्शन इंटरव्यू और स्किल चेक के बाद होगा।</div>
