@@ -33,3 +33,6 @@ _Last updated: 11 Oct 2026 · Ad account: 1748813632871726 · Page: Dilshad Wala
 - [ ] Re-activate welder winner ad 8e58?
 - [ ] Final daily budget for each campaign (total per day)
 - [ ] Raipur blue-collar ad set renamed "18-35" – verify age targeting is still 18–65 (policy)
+
+## Change log
+- 14 Oct 2026: ₹5,000 recharged. Campaign 1 (Welder UP/Bihar/JH) PAUSED – candidates demanding high salary. Raipur blue-collar ad set placements limited to FB/IG Feed + Reels, mobile. Sales ad "Sales Manager - SM3" paused (weakest). Active budget: Raipur ₹150 + Sales ₹100 = ₹250/day.
