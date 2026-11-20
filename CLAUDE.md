@@ -1,0 +1,23 @@
+# The Fire Wala – Meta / Lead Ads Rules (founder-approved)
+
+Before ANY lead ad goes live, check every point below with the founder.
+If an ad is about to go live (or was set live) without these, stop and remind him.
+
+## Pre-launch checklist (genuine leads only)
+1. **Pehli line mein customer ka naam** – e.g. "Factory owners & Safety Officers…" (creative-led targeting).
+2. **Quantity maango** – "Cylinder ki quantity bhejiye, quote turant."
+3. **Price saaf likho** – e.g. ₹100/kg + GST (only real prices; struck-out price only if it was the genuine earlier rate).
+4. **Area fix** – sirf serviceable area (Raipur 40 km, Bhilai, Durg, Bilaspur, Korba) unless founder approves more.
+5. **Anu ke 4 sawaal** – quantity, type, location, company. No answer → mark Lost / Not interested.
+6. **Weekly review** – budget goes to ads whose leads reach quotation, not just cheap chats.
+7. Destination = WhatsApp 78610 (Page "MSD Engineering - The Firewala", 110106411446896) or Meta Instant Form. Never an external Google Form/website for lead ads (0 leads history).
+8. Preview shown to founder + explicit "live karo" before publishing.
+9. No false claims: no "NOC guarantee", "100% safe", "sabse sasta". Timelines: "24–48 ghante (type ke hisaab se)".
+10. Client names only from founder's client list, exact spelling, no exaggeration.
+11. Overlap check: same service/audience already running? Warn before launching a duplicate.
+
+## Standing safety rules
+- Never touch IQRA account 176185328031881 (also not MCP-enabled).
+- No customer contact lists uploaded to Meta without a consent decision (DPDP).
+- Do not run "Review and publish" on stale drafts in hiring account 1748813632871726.
+- People's faces/ID cards in creatives: confirm consent; blur personal numbers.
