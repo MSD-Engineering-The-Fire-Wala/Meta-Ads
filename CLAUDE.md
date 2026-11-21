@@ -21,7 +21,10 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
 - Public phone/WhatsApp: 77720 78610 (only this number on site/ads)
 - No AMC "free replacement" policy – never claim it
 - Refilling offer: ₹100/kg + GST (limited period), 24–48 hrs by type, free pickup-drop on 4+ cylinders, 1 cylinder accepted
-- Year-End Offer (1 Dec 2026 – 31 Jan 2027): ALL types (ABC/CO2/Foam/Water) starting ₹100 per kg/L + GST; size discount >4 kg = 10%, ≥9 kg/L = 15%. No struck-out ₹150 for CO2/Foam/Water.
+- Year-End Offer (1 Dec 2026 – 31 Jan 2027): ALL types (ABC/CO2/Foam/Water) starting ₹100 per kg/L + GST. Only discount: extra 10% on ABC above 4 kg and CO2 above 4.5 kg. No 15% tier. No struck-out ₹150 for CO2/Foam/Water.
+- Do NOT mention in ads/landing page: spare-part charges, trolley/50 L units, pickup km limits (say "conditions apply – call our team").
+- Free pickup-drop (4+ cylinders) is within ~10 km of office; beyond is chargeable – keep it as "conditions apply" publicly.
+- Lead response promise: Mon–Sat 10 am–7 pm → team calls within 1 hour; otherwise as soon as possible.
 - Google Business Profile: 4.9★, 1,026 reviews (pulled 21 Nov 2026 via Windsor; re-check before quoting)
 
 ## Standing safety rules
