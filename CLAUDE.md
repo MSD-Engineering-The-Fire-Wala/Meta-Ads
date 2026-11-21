@@ -25,6 +25,10 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
 - Do NOT mention in ads/landing page: spare-part charges, trolley/50 L units, pickup km limits (say "conditions apply – call our team").
 - Free pickup-drop (4+ cylinders) is within ~10 km of office; beyond is chargeable – keep it as "conditions apply" publicly.
 - Lead response promise: Mon–Sat 10 am–7 pm → team calls within 1 hour; otherwise as soon as possible.
+- Landing pages & ad copy for customers: simple professional English (target clients are professionals). Hinglish only in chat with founder.
+- Foam/Water discounts: do not mention anywhere (ads or page) until founder decides.
+- Media from founder's Drive (videos/photos/graphics): never use on page or ads without asking and getting approval for each item; match media to the segment (hospital media for hospital ads, etc.).
+- Old posters in Drive show 77720 78601 and +91 78970 13490 — do NOT reuse; only 77720 78610 is public.
 - Google Business Profile: 4.9★, 1,026 reviews (pulled 21 Nov 2026 via Windsor; re-check before quoting)
 
 ## Standing safety rules
