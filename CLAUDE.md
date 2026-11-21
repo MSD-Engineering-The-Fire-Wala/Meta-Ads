@@ -16,6 +16,12 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
 10. Client names only from founder's client list, exact spelling, no exaggeration.
 11. Overlap check: same service/audience already running? Warn before launching a duplicate.
 
+## Verified facts (founder-confirmed, use consistently everywhere)
+- Since 2016 · ISO 9001:2015 · 10,000+ extinguishers serviced · 700+ clients served
+- Public phone/WhatsApp: 77720 78610 (only this number on site/ads)
+- No AMC "free replacement" policy – never claim it
+- Refilling offer: ₹100/kg + GST (limited period), 24–48 hrs by type, free pickup-drop on 4+ cylinders, 1 cylinder accepted
+
 ## Standing safety rules
 - Never touch IQRA account 176185328031881 (also not MCP-enabled).
 - No customer contact lists uploaded to Meta without a consent decision (DPDP).
