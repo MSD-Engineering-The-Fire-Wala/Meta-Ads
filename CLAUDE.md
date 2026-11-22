@@ -31,6 +31,10 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
 - Old posters in Drive show 77720 78601 and +91 78970 13490 — do NOT reuse; only 77720 78610 is public.
 - Google Business Profile: 4.9★, 1,026 reviews (pulled 21 Nov 2026 via Windsor; re-check before quoting)
 
+## Lead tracking
+- Single lead tracker for ALL sources: Google Sheet "TFW Lead Tracker" (1h379GWtXNJuuzZQHcjyzolEC6ffGKdTurGf6lHO5SBw). Tabs: How to use, Leads (Anu fills), Dashboard (formulas), Ad Spend (Claude adds weekly spend per ad), Lists (dropdown values).
+- Weekly review reads this sheet: budget moves to ads/segments whose leads reach Quote sent / Won, not to cheap chats.
+
 ## Standing safety rules
 - Never touch IQRA account 176185328031881 (also not MCP-enabled).
 - No customer contact lists uploaded to Meta without a consent decision (DPDP).
