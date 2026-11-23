@@ -31,7 +31,7 @@ All questions are required.
 
 ### 3. Privacy policy
 - **Link text:** Privacy Policy
-- **URL:** https://thefirewala.com/privacy-policy (founder to confirm this page is live)
+- **URL:** https://www.thefirewala.in/privacy-policy/ (goes live after founder approval)
 
 ### 4. Review screen (higher intent)
 Keep Meta's default review text.
@@ -92,7 +92,7 @@ You are helping me (the business owner) create ONE Meta Instant Form (lead form)
 
 **Privacy policy**
 - Link text: `Privacy Policy`
-- URL: `https://thefirewala.com/privacy-policy`
+- URL: `https://www.thefirewala.in/privacy-policy/`
 - Before saving, open this URL in a new tab. If it does not load or is not a privacy policy page, stop and tell me.
 
 **Review screen:** keep Meta's default text.
