@@ -42,7 +42,7 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
   - ICP source for project messaging: Drive folder "ICP OF THE FIRE WALA" (Project Segment ICA, Project Buyer Behaviour Avatar, Segment-wise doc). Speak to each stakeholder (owner, builder, PM, consultant, admin, purchase). Core fears: NOC objection, delayed handover, hidden scope, rework, blame. Promise line: "Right Design. Right Material. Right Execution. Right Documentation. Reliable Support."
   - Drive van photos show the old numbers 77720 78601 / 78605. Founder: do NOT use van photos at all (26 Nov 2026).
   - Hotel Harshpushp Garden: real client (not yet in client list); complete job: hydrant, sprinkler, fire alarm, extinguishers. OK to name on pages/ads.
-  - Approved hydrant-page photos: Drive "Site photo video new" 22 Oct   - Drive van photos show the old numbers 77720 78601 / 78605. Crop or blur them before using any van photo. 2 Nov sets. Refilling/extinguisher photos in that folder are for refilling ads only.
+  - Approved hydrant-page photos: Drive "Site photo video new" 22 Oct and 2 Nov sets. Refilling/extinguisher photos in that folder are for refilling ads only.
   - No hydrant case studies exist yet. The founder will share a Drive folder of project videos; use items from it only with his per-item approval.
 
 ## Lead tracking
