@@ -30,6 +30,13 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
 - Media from founder's Drive (videos/photos/graphics): never use on page or ads without asking and getting approval for each item; match media to the segment (hospital media for hospital ads, etc.).
 - Old posters in Drive show 77720 78601 and +91 78970 13490 — do NOT reuse; only 77720 78610 is public.
 - Google Business Profile: 4.9★, 1,026 reviews (pulled 21 Nov 2026 via Windsor; re-check before quoting)
+- Hydrant/sprinkler page facts (founder-confirmed 26 Nov 2026):
+  - "50+ in-house team" is true.
+  - "No sub-contracting": all hydrant/sprinkler work (welding, pump room, pipeline, testing) is done by the in-house team.
+  - Client logos on the hydrant page (PVR, Apollo Sugar, NECO, Zora Mall, Kolors, Yashwant, SNJH, Balaji, Suyash, Shiv Shakti etc.) are real clients; OK to show.
+  - "NBC Part 4 / IS codes" and "Fire NOC-ready documents" wording is approved by the founder, who is a fire safety engineer.
+  - Any NEW technical commitment (timelines, specs, guarantees, scope) must be discussed with the TFW team first. Do not treat it as valid until the team confirms.
+  - No hydrant case studies exist yet. The founder will share a Drive folder of project videos; use items from it only with his per-item approval.
 
 ## Lead tracking
 - Single lead tracker for ALL sources: Google Sheet "TFW Lead Tracker" (1h379GWtXNJuuzZQHcjyzolEC6ffGKdTurGf6lHO5SBw). Tabs: How to use, Leads (Anu fills), Dashboard (formulas), Ad Spend (Claude adds weekly spend per ad), Lists (dropdown values).
