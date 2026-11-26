@@ -39,6 +39,8 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
   - Service area for hydrant/sprinkler/project leads: all of Chhattisgarh, plus projects in other states (UP, Telangana, Odisha, MP). The refilling area rule (checklist point 4) does not apply to project leads.
   - Ideal project client: works on TFW's terms, follows TFW's process, values quality work (not the cheapest-price buyer). Messaging should attract these clients and filter out pure price shoppers.
   - Reviews: real Google reviews and screenshots of review text (about the team and work) may be used. The Varanasi (UP) hydrant-demo review is in the service area for projects.
+  - ICP source for project messaging: Drive folder "ICP OF THE FIRE WALA" (Project Segment ICA, Project Buyer Behaviour Avatar, Segment-wise doc). Speak to each stakeholder (owner, builder, PM, consultant, admin, purchase). Core fears: NOC objection, delayed handover, hidden scope, rework, blame. Promise line: "Right Design. Right Material. Right Execution. Right Documentation. Reliable Support."
+  - Drive van photos show the old numbers 77720 78601 / 78605. Crop or blur them before using any van photo.
   - No hydrant case studies exist yet. The founder will share a Drive folder of project videos; use items from it only with his per-item approval.
 
 ## Lead tracking
