@@ -43,6 +43,12 @@ If an ad is about to go live (or was set live) without these, stop and remind hi
   - Drive van photos show the old numbers 77720 78601 / 78605. Founder: do NOT use van photos at all (26 Nov 2026).
   - Hotel Harshpushp Garden: real client (not yet in client list); complete job: hydrant, sprinkler, fire alarm, extinguishers. OK to name on pages/ads.
   - Approved hydrant-page photos: Drive "Site photo video new" 22 Oct and 2 Nov sets. Refilling/extinguisher photos in that folder are for refilling ads only.
+  - 500+ hydrant & sprinkler projects completed (founder, 27 Nov 2026).
+  - Team-confirmed (27 Nov 2026): supervisor on site + regular progress updates; deviations reported to the consultant; work planned stage-wise with civil & electrical teams.
+  - Fire NOC support scope (founder): collect client documents and apply for the NOC; on inspection day our engineer explains the system and its operation to the fire officer. Still never promise NOC approval.
+  - Project examples OK to show (no prices/contacts): Magneto Mall Raipur (Avinash Developers) – sprinkler; Srishti Constructions Korba – hydrant + fire alarm; Hotel Harshpushp Garden – complete.
+  - Common makes: TATA MS 'C' class pipes, Tyco UL-listed sprinklers, Zoloto valves, Kartar flexible drops ("final makes as per approved spec").
+  - Quotation sheets show 79876 33370 and info@thefirewala.com — internal; never put on pages/ads.
   - No hydrant case studies exist yet. The founder will share a Drive folder of project videos; use items from it only with his per-item approval.
 
 ## Lead tracking
